@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4176B80-988D-41DD-AB0A-66C8634CA731}|TestBuenos\\TestBuenos.csproj|c:\\users\\user\\source\\repos\\8. igraficasies\\8. igraficasies\\testbuenos\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4176B80-988D-41DD-AB0A-66C8634CA731}|TestBuenos\\TestBuenos.csproj|solutionrelative:testbuenos\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F81338-7B42-4406-A4A6-4CB73A1C0B6E}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\consoleapp1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F81338-7B42-4406-A4A6-4CB73A1C0B6E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\TestBuenos\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBuenos\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\TestBuenos\\UnitTest1.cs",
+              "RelativeToolTip": "TestBuenos\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:11:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\ConsoleApp1\\Persona.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Persona.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\ConsoleApp1\\Persona.cs",
+              "RelativeToolTip": "ConsoleApp1\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:10:40.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

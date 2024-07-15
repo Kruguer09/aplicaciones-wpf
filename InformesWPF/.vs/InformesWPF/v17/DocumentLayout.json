@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\InformesWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|c:\\users\\user\\source\\repos\\informeswpf\\informeswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|solutionrelative:informeswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|C:\\Users\\USER\\source\\repos\\InformesWPF\\informeswpf\\reportes\\centrosdeportivos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|solutionrelative:informeswpf\\reportes\\centrosdeportivos.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|C:\\Users\\USER\\source\\repos\\InformesWPF\\informeswpf\\reportes\\pistas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|solutionrelative:informeswpf\\reportes\\pistas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|C:\\Users\\USER\\source\\repos\\InformesWPF\\informeswpf\\reportes\\usuarios.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|solutionrelative:informeswpf\\reportes\\usuarios.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|C:\\Users\\USER\\source\\repos\\InformesWPF\\informeswpf\\reportes\\directores.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{58CDCF8A-1D09-45F7-9F7A-E233D52405F4}|InformesWPF\\InformesWPF.csproj|solutionrelative:informeswpf\\reportes\\directores.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pistas.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\Pistas.rdlc",
+              "RelativeDocumentMoniker": "InformesWPF\\Reportes\\Pistas.rdlc",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\Pistas.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "InformesWPF\\Reportes\\Pistas.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-20T08:58:19.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Directores.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\Directores.rdlc",
+              "RelativeDocumentMoniker": "InformesWPF\\Reportes\\Directores.rdlc",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\Directores.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "InformesWPF\\Reportes\\Directores.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-20T08:58:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CentrosDeportivos.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\CentrosDeportivos.rdlc",
+              "RelativeDocumentMoniker": "InformesWPF\\Reportes\\CentrosDeportivos.rdlc",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\CentrosDeportivos.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "InformesWPF\\Reportes\\CentrosDeportivos.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-20T08:57:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuarios.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\Usuarios.rdlc",
+              "RelativeDocumentMoniker": "InformesWPF\\Reportes\\Usuarios.rdlc",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\Reportes\\Usuarios.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "InformesWPF\\Reportes\\Usuarios.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-18T10:46:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InformesWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InformesWPF\\InformesWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InformesWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwGcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:58:35.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

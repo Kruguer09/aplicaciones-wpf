@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXqFQ4vYAVXSBnVc2rbRBb2VuiCLNVV5r8JY4mWPFVESi1oefyoeV9/DtMc1v5dOU8oXnUPAnpEU0jath00DBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\timeperiodlibrary.net\\2.1.5\\timeperiodlibrary.net.2.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0sfXVoX/cKydfUv0slYcUon+91RkfeeJ7waQ9ZJBANiUmhX0gQa4T7X8CdEWzFY+rwE4Sljh7hTqvD7PkxhmQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\PersonaTest\\PersonaTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto 8. IGraficasIES no es compatible con net7.0 (.NETCoreApp,Version=v7.0). El proyecto 8. IGraficasIES admite: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "8. IGraficasIES",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\bin\Debug\net6.0\Ejer1_7.exe
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\bin\Debug\net6.0\Ejer1_7.deps.json
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\bin\Debug\net6.0\Ejer1_7.runtimeconfig.json
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\bin\Debug\net6.0\Ejer1_7.dll
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\bin\Debug\net6.0\Ejer1_7.pdb
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.dll
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\refint\Ejer1_7.dll
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.pdb
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\Ejer1_7.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Aplicacion1\Ejer1_7\obj\Debug\net6.0\ref\Ejer1_7.dll

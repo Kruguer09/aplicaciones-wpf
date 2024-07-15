@@ -1,0 +1,8 @@
+Elisa;Fernandez Cortes;39;fecoe@trass.com;Desarrollo de Interfaces;DeCarrera;2006;true;SeguridadSocial
+Ana;Lora Rey;45;lorea@trass.com;Matematicas;DeCarrera;2011;true;Muface;ana.jpg
+Susana;Diaz Reina;34;dires@trass.com;Lengua;DeCarrera;2006;true;SeguridadSocial;susana.jpg
+Juan Antonio;Luque Luna;55;luluj@trass.com;Ingles;DeCarrera;2016;true;Muface
+Rodrigo;Diosdado Leon;61;diler@trass.com;Acceso a datos;DeCarrera;1998;true;Muface
+Maria Jesus;Gracia Feria;57;grfem@trass.com;Biologia;DeCarrera;2008;true;Muface;mariajesus.jpg
+Manuel;Felix Campos;37;fecam@trass.com;Sistemas Informaticos;EnPracticas;2021;false;Muface;manuel.jpg
+Ana;Cano Exposito;43;caexa@trass.com;Literatura;EnPracticas;2021;false;SeguridadSocial

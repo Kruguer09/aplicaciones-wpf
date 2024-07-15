@@ -1,0 +1,69 @@
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\App.g.cs
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES_MarkupCompile.cache
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.g.resources
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.AssemblyInfoInputs.cache
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.AssemblyInfo.cs
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.CoreCompileInputs.cache
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.AssemblyReference.cache
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.exe
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.deps.json
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.runtimeconfig.json
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.dll
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.pdb
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\Itenso.TimePeriod.dll
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\de\Itenso.TimePeriod.resources.dll
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.CopyComplete
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.dll
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\refint\8. IGraficasIES.dll
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.pdb
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.genruntimeconfig.cache
+D:\Ciclo\Interfaces\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\ref\8. IGraficasIES.dll
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.exe
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.deps.json
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.runtimeconfig.json
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.dll
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.pdb
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\Itenso.TimePeriod.dll
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\de\Itenso.TimePeriod.resources.dll
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.AssemblyReference.cache
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES_MarkupCompile.cache
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.g.resources
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.AssemblyInfoInputs.cache
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.AssemblyInfo.cs
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.CopyComplete
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.dll
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\refint\8. IGraficasIES.dll
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.pdb
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.genruntimeconfig.cache
+C:\Users\Chico\source\repos\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\ref\8. IGraficasIES.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.exe
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.deps.json
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.runtimeconfig.json
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\8. IGraficasIES.pdb
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\Itenso.TimePeriod.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\bin\Debug\net6.0-windows\de\Itenso.TimePeriod.resources.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES_MarkupCompile.cache
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.g.resources
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.AssemblyInfo.cs
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\refint\8. IGraficasIES.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.pdb
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraficasIES.genruntimeconfig.cache
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\ref\8. IGraficasIES.dll
+C:\Users\USER\source\repos\8. IGraficasIES\8. IGraficasIES\8. IGraficasIES\obj\Debug\net6.0-windows\8. IGraf.6D68FF8F.Up2Date

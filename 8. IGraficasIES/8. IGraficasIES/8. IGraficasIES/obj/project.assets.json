@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "TimePeriodLibrary.NET/2.1.5": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Itenso.TimePeriod.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Itenso.TimePeriod.dll": {}
+        },
+        "resource": {
+          "lib/net6.0/de/Itenso.TimePeriod.resources.dll": {
+            "locale": "de"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimePeriodLibrary.NET/2.1.5": {
+      "sha512": "2QFqfYDl7/4wQd6Bsi1Z4fZlOurnJ2OQln5YK+TlIS6c5R0AM2Tn1EEfpWob/sOe0c0luUR01r0kZE4vruX8mw==",
+      "type": "package",
+      "path": "timeperiodlibrary.net/2.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net35/Itenso.TimePeriod.dll",
+        "lib/net35/de/Itenso.TimePeriod.resources.dll",
+        "lib/net40/Itenso.TimePeriod.dll",
+        "lib/net40/de/Itenso.TimePeriod.resources.dll",
+        "lib/net45/Itenso.TimePeriod.dll",
+        "lib/net45/de/Itenso.TimePeriod.resources.dll",
+        "lib/net46/Itenso.TimePeriod.dll",
+        "lib/net46/de/Itenso.TimePeriod.resources.dll",
+        "lib/net6.0/Itenso.TimePeriod.dll",
+        "lib/net6.0/de/Itenso.TimePeriod.resources.dll",
+        "lib/net7.0/Itenso.TimePeriod.dll",
+        "lib/net7.0/de/Itenso.TimePeriod.resources.dll",
+        "lib/netstandard1.6/Itenso.TimePeriod.dll",
+        "lib/netstandard1.6/de/Itenso.TimePeriod.resources.dll",
+        "timeperiodlibrary.net.2.1.5.nupkg.sha512",
+        "timeperiodlibrary.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "TimePeriodLibrary.NET >= 2.1.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES.csproj",
+      "projectName": "8. IGraficasIES",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\8. IGraficasIES\\8. IGraficasIES\\8. IGraficasIES\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "TimePeriodLibrary.NET": {
+            "target": "Package",
+            "version": "[2.1.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
